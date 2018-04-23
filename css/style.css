@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    background-color: #026435;
+    font-family: 'Open Sans', sans-serif;
+}
+
+button {
+    border-radius: 25px;
+}
+
+h1 {
+    color: white;
+}
